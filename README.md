@@ -10,8 +10,6 @@ I am passionate about developing enterprise-level IT solutions that combine both
 
 As a winner of major five hackathons in Sri Lanka(BIT CODE, CODEX, ALGOTHON, CODE RALLY, CODE_NIGHT), I am committed to driving innovation and delivering impactful technology.
 
-Currently, I lead a technology startup focused on providing advanced industrial engineering solutions for enterprise clients.
-
 ---
 
 Thanks for stopping by! Feel free to explore my repos and reach out anytime.
