@@ -1,6 +1,6 @@
 # Hi, I'm Ramishka Thennakoon 👋
 
-🚀 Computer Engineer | Freelancer | Let's Ignite the Nation
+Computer Engineer
 
 ---
 
